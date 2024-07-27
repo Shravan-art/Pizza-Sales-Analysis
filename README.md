@@ -1,4 +1,8 @@
 # Pizza-Sales-Analysis
+
+![image](https://github.com/user-attachments/assets/34f6a2f2-82b5-46e3-9b61-3d28f268bc0f)
+
+
 Pizza Sales Analysis
 
 I just wrapped up an amazing journey diving deep into our pizza sales data, and I am thrilled to share the highlights from our latest latest 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈 𝐑𝐞𝐩𝐨𝐫𝐭 – "𝐏𝐢𝐳𝐳𝐚 𝐒𝐚𝐥𝐞𝐬 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐑𝐞𝐩𝐨𝐫𝐭"🍕
