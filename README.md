@@ -95,8 +95,31 @@ The real fun began! From daily and monthly trends to pie charts showcasing sales
 
 10. In terms of Orders The Brie Carre Pizza is the lowest earning Pizza category.
 
+![Screenshot 2024-12-01 205150](https://github.com/user-attachments/assets/5c2c3d72-bd21-40ca-a0a1-0772d5e2ca68)
+
+![Screenshot 2024-12-01 205135](https://github.com/user-attachments/assets/c1a461e3-e2d8-4f32-a61b-8fb96840fac4)
+
+
+
 
 
 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠𝐬:📝
    The journey was a treasure trove of learning opportunities. 𝐒𝐐𝐋 skills got a serious workout as we harnessed the power of aggregate functions, datetime functions, order by, and group by functions.🏋️‍♂️
    This dashboard is not just numbers, it's a story, an exploration, and a celebration of our pizza journey. Can't wait to hear your thoughts and insights!✍
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
